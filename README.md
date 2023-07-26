@@ -1,10 +1,12 @@
-# Wordle
-WORDLE REPLICA AND AI SOLVER
+# Wordle Replica and AI Solver
 
-CREATED BY: Mandy Chen
+## Summary
+Terminal Wordle game with an AI solver including five levels of success, top intelligence level with average guess amount of 1 to 3 and success rate of 100%.
 
-CREATED IN: July 2022
+## Created
+Date: July 2022
+Program: Jane Street Academy of Math and Programming
 
-USES: Python
+## Technologies
+Python
 
-SUMMARY: Terminal Wordle game with an AI solver including five levels of success, top intelligence level with average guess amount of 1 to 3 and success rate of 100%.
